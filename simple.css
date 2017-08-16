@@ -1,0 +1,30 @@
+body {
+  background-color: #ECF0F1;
+  font-family: Lato, sans-serif;
+  color: #282830;
+  text-align: center;
+}
+
+.content {
+  max-width: 500px;
+  margin: 15% auto 0 auto;
+}
+
+p {
+  font-size: 14pt;
+}
+
+a {
+  color: #2C82C9;
+  text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#name {
+  font-family: Georgia, serif;
+  color: #F29B34;
+  text-decoration: None;
+}
