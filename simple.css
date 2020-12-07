@@ -1,7 +1,7 @@
 body {
-  background-color: #ECF0F1;
+  background-color: #0a3d62;
   font-family: Lato, sans-serif;
-  color: #282830;
+  color: #fad390;
   text-align: center;
 }
 
@@ -15,16 +15,16 @@ p {
 }
 
 a {
-  color: #2C82C9;
+  color: #82ccdd;
   text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 #name {
   font-family: Georgia, serif;
-  color: #F29B34;
+  color: #fa983a;
   text-decoration: None;
 }
